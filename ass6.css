@@ -1,0 +1,146 @@
+/* .ist{
+    /* background-image: url(./shara\ desert.jpg);
+    height: 630px;
+    width: 1370px;
+    font-size: larger; 
+    
+} */
+.main{
+    background-image: url(./shara\ desert.jpg);
+    height: 630px;
+    width: 1370px;
+    background-size: cover;
+    padding: 30px;
+}
+
+.nav{
+    margin-left: 870px;
+    font-size: x-large;
+    margin-top: 80px;
+    text-decoration-line: none;
+    color: aliceblue;
+}
+.home{
+    margin-right: 80px;
+    color: aliceblue;
+    text-decoration-line: none;
+
+}
+.about{
+    margin-left: 50px;
+    color: aliceblue;
+    text-decoration-line: none;
+}
+.region{
+    color: aliceblue;
+    text-decoration-line: none;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto ;
+    padding: 5%;
+    margin-left: 750px;
+    margin-top: -60px
+    
+    
+
+}
+.g{
+    height: 180px;
+    width: 170px;
+    border: 2px solid black;
+    border-radius: 8px;
+    /* margin-left: 60px; */
+    text-align: center;
+    background-image: url(./pic-1.png);
+    background-size: cover;
+    color: aliceblue;
+}
+.g:hover{
+   height: 200px;
+   width: 200px;
+   /* padding-left: 200px; */
+}
+.r{
+    height: 180px;
+    width: 170px;
+    border: 2px solid black;
+    border-radius: 8px;
+    /* margin-left: 400px; */
+    text-align: center;
+    background-image: url(./pic-2.png);
+    background-size: cover;
+    color: aliceblue;
+
+}
+.r:hover{
+    height: 200px;
+    width: 200px;
+
+}
+.i{
+    height: 180px;
+    width: 170px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 8px;
+    text-align: center;
+    background-image: url(./pic-3.png);
+    background-size: cover;
+    color: aliceblue;
+}
+.i:hover{
+    height: 200px;
+    width: 200px;
+}
+.d{
+    height: 180px;
+    width: 170px;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 8px;
+    text-align: center;
+    background-image: url(./pic-4.png);
+    background-size: cover;
+    color: aliceblue;
+}
+.d:hover{
+    height: 200px;
+    width: 200px;
+}
+.sahara{
+    margin-top: -390px;
+    color: aliceblue;
+}
+h1{
+    font-size: 80px;
+}
+pre{
+    font-size:medium;
+}
+.button{
+    font-size: x-large;
+    margin-left: 5px;
+}
+.camel{
+    margin-top: -450px;
+}
+
+
+
+
+
+
+.war{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+.bis{
+   
+    color:rgb(130, 53, 53);
+    background-image: url(./cookie-background.jpg);
+    
+}
